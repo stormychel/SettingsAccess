@@ -27,7 +27,7 @@ on:
     - cron: '55 13 * * *'   # once a day @ 2:55am UTC (7:55am PST)
 
 env:
-  SCHEME: "SettingsAccess-CI"
+  SCHEME: SettingsAccess-CI
 
 jobs:
   macOS:
